@@ -1,6 +1,0 @@
-,id,books_count,ratings_count,text_reviews_count,original_publication_year,average_rating,input_string,status
-0,1251386,4,49,11,2007,3.96,Anne Varichon,<Response [200]>
-1,21625483,31,1115,153,2012,3.75,Patrick Deville,<Response [200]>
-2,67000957,1,4,0,,3.75,Stephen Wilkes,<Response [200]>
-3,6528039,2,121,15,2009,3.97,Richard Brereton,<Response [200]>
-4,547085,3,141,3,2001,3.77,Burkhard Riemschneider,<Response [200]>
